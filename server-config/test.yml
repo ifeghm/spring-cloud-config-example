@@ -1,0 +1,8 @@
+croisement {
+  start = ""
+  end = ""
+  output = ""
+  start = ${?START}
+  end = ${?END}
+  output = ${?OUTPUT}
+}
